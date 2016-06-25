@@ -36,6 +36,13 @@ img{
 #maroon-Text{
     color: #490f0d !important;
 }
+.maroon-Center-Text{
+    color: #490f0d !important;
+    text-align: center;
+}
+.no-Bullet{
+    list-style-type: none;
+}
 #the-Cards{
     background-color: white !important;
 }
